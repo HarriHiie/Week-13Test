@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week13-Test\MilkyWay\bin\Debug\netcoreapp3.1\MilkyWay.exe
+C:\Users\opilane\source\repos\Week13-Test\MilkyWay\bin\Debug\netcoreapp3.1\MilkyWay.deps.json
+C:\Users\opilane\source\repos\Week13-Test\MilkyWay\bin\Debug\netcoreapp3.1\MilkyWay.runtimeconfig.json
+C:\Users\opilane\source\repos\Week13-Test\MilkyWay\bin\Debug\netcoreapp3.1\MilkyWay.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week13-Test\MilkyWay\bin\Debug\netcoreapp3.1\MilkyWay.dll
+C:\Users\opilane\source\repos\Week13-Test\MilkyWay\bin\Debug\netcoreapp3.1\MilkyWay.pdb
+C:\Users\opilane\source\repos\Week13-Test\MilkyWay\obj\Debug\netcoreapp3.1\MilkyWay.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week13-Test\MilkyWay\obj\Debug\netcoreapp3.1\MilkyWay.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week13-Test\MilkyWay\obj\Debug\netcoreapp3.1\MilkyWay.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week13-Test\MilkyWay\obj\Debug\netcoreapp3.1\MilkyWay.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week13-Test\MilkyWay\obj\Debug\netcoreapp3.1\MilkyWay.dll
+C:\Users\opilane\source\repos\Week13-Test\MilkyWay\obj\Debug\netcoreapp3.1\MilkyWay.pdb
+C:\Users\opilane\source\repos\Week13-Test\MilkyWay\obj\Debug\netcoreapp3.1\MilkyWay.genruntimeconfig.cache
